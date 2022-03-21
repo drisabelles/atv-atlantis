@@ -16,15 +16,11 @@
 
 </div>
 
-<br />
-
 ## 🧐 Proposta
 
 Você é um empreendedor, muito atento as tendências de mercado epercebeu a crescente dos parques aquáticos. Existem muitos softwares disponíveispara auxiliar proprietários ou grupos empresariais na gestão do seu negócio, mas a maioria é caro demais e com limitações. Portanto você decidiu criar uma empresa, com novas ideias e propostas melhores, a Ocean Solutions. Depois de muito pensar, debater e ouvir seus consultores, decidiu-sepelo desenvolvimento de um sistema novo, batizado de Atlantis, uma homenagem a cidade de Atlântida. O importante neste ponto é que você não é apenas o fundador da Ocean Solutions, também é umdos engenheiros de softwaree desenvolvedor do Atlantis.
 
-## 📒 Sobre
-
-Em breve! 
+<br />
 
 ## 👨‍💻 Tecnologias
 
@@ -35,9 +31,21 @@ Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimen
 > <img src='https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-purple?style=for-the-badge'> 
 > <img src='https://img.shields.io/badge/INSOMNIA-pink?style=for-the-badge'> 
 
+<br />
+
 ## ✍️ Progresso
 
 - [ ] Atualização para que todos dependentes tenham clonados os telefones dos responsáveis
+
+<br />
+
+## 🗂️ Organização
+Em breve!
+
+<br />
+
+## ⌨️ Como rodar
+Em breve!
 
 <br />
 

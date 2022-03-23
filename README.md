@@ -26,10 +26,10 @@ Você é um empreendedor, muito atento as tendências de mercado epercebeu a cre
 
 Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimentos desta atividades:
 
-> <img src='https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge'> 
-> <img src='https://img.shields.io/badge/NODE%20JS-green?style=for-the-badge'> 
-> <img src='https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-purple?style=for-the-badge'> 
-> <img src='https://img.shields.io/badge/INSOMNIA-pink?style=for-the-badge'> 
+> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+> ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+> ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
 
 <br />
 

@@ -35,7 +35,7 @@ Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimen
 
 ## ✍️ Progresso
 
-- [ ] Atualização para que todos dependentes tenham clonados os telefones dos responsáveis
+- [x] Atualização para que todos dependentes tenham clonados os telefones dos responsáveis
 
 <br />
 

@@ -35,7 +35,9 @@ Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimen
 
 ## ✍️ Progresso
 
-- [x] Atualização para que todos dependentes tenham clonados os telefones dos responsáveis
+- [x] ATV I - Terminar a implementação do padrão protótipo na classe telefone.
+- [ ] ATV II -
+- [ ] ATV III -
 
 <br />
 

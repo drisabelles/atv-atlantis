@@ -36,18 +36,6 @@ Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimen
 ## ✍️ Progresso
 
 - [x] ATV I - Terminar a implementação do padrão protótipo na classe telefone.
-- [ ] ATV II -
-- [ ] ATV III -
-
-<br />
-
-## 🗂️ Organização
-Em breve!
-
-<br />
-
-## ⌨️ Como rodar
-Em breve!
 
 <br />
 

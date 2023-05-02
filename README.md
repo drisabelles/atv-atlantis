@@ -1,44 +1,78 @@
-<div align='center'>
-  
-# Atlantis Water Park
+<div align="center">
+
+# 🏊🏻‍♀️ Atlantis Water Park 🏊🏻‍♀️
+
 </div>
-
-> Atividade da matéria de Técnicas de Programação II ministrada pelo professor Gerson Penha.
-
-</br>
 
 <div align="center">
 
-**[PROPOSTA](https://github.com/chroline/well_app#-project-philosophy) • 
-[SOBRE](https://github.com/chroline/well_app#-wiki) • 
-[TECNOLOGIAS](https://github.com/chroline/well_app#-tech-stack) • 
-[PROGRESSO](https://github.com/chroline/well_app#%EF%B8%8F-contributing)**
+[Sobre o projeto](#project) | [Ferramentas](#tools) | [Usabilidades](#usabilities) | [Executando](#running) | [Organização das pastas](#folders) | [Autor](#autor)
+
+</br>
 
 </div>
 
-## 🧐 Proposta
-
+##  ✒️ Sobre o projeto <a name="project"></a>
 Você é um empreendedor, muito atento as tendências de mercado epercebeu a crescente dos parques aquáticos. Existem muitos softwares disponíveispara auxiliar proprietários ou grupos empresariais na gestão do seu negócio, mas a maioria é caro demais e com limitações. Portanto você decidiu criar uma empresa, com novas ideias e propostas melhores, a Ocean Solutions. Depois de muito pensar, debater e ouvir seus consultores, decidiu-sepelo desenvolvimento de um sistema novo, batizado de Atlantis, uma homenagem a cidade de Atlântida. O importante neste ponto é que você não é apenas o fundador da Ocean Solutions, também é umdos engenheiros de softwaree desenvolvedor do Atlantis.
 
-<br />
+</br>
 
-## 👨‍💻 Tecnologias
+## ⚒️ Ferramentas <a name="tools"></a>
 
-Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimentos desta atividades:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-e4d2e4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-e4d2e4.svg?style=for-the-badge&logo=typescript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-e4d2e4?style=for-the-badge&logo=node.js&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-e4d2e4?style=for-the-badge&logo=insomnia&logoColor=black) 
 
-> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-> ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
+</br>
 
-<br />
+## 🪢 Usabilidades <a name="usabilities"></a>
+- [X] ATV I - Terminar a implementação do padrão protótipo na classe telefone.
 
-## ✍️ Progresso
+</br>
 
-- [x] ATV I - Terminar a implementação do padrão protótipo na classe telefone.
+## ⚙️ Executando <a name="running"></a>
 
-<br />
+```bash
 
-# 💛
+# Baixe este repositório ou clone pelo Git usando o comando:
+$ git clone https://github.com/drisabelles/atv-atlantis.git
 
-Lembrete de que *você é ótimo, você é o suficiente, e a sua presença é valorizada.* Se você está tendo algum problema com saúde mental, por favor, fale com alguém que você ama e busque ajuda profissional. [Há muitas formas de você conseguir ajuda num momento de necessidade.](https://www.cvv.org.br/)
+# Acesse a pasta do projeto
+$ cd atv-atlantis
+
+# Instale as dependências
+$ npm install
+
+# Inicie o projeto
+$ npm start
+
+```
+
+## 🗂️ Organização das pastas <a name="folders"></a>
+
+```bash
+📂 atv-atlantis
+|- 📁 enumeracoes
+|--- 📄 tipoDocumento.ts
+|- 📁 interfaces
+|--- 📄 prototipo.ts
+|- 📁 modelo
+|--- 📄 agenda.ts
+|--- 📄 cliente.ts
+|--- 📄 documento.ts
+|--- 📄 endereco.ts
+|--- 📄 telefone.ts
+|- 📁 teste
+|--- 📄 entrada.ts
+|--- 📄 index.ts
+|- 📄 package-lock.json
+|- 📄 package.json
+|- 📄 tsconfig.json
+```
+
+</br>
+
+## 👩‍💻 Autor <a name="autor"></a>
+
+- LinkedIn - [Isabelle Ribeiro](https://www.linkedin.com/in/drisabelles/)
